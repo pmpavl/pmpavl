@@ -1,4 +1,4 @@
 # Max 👨🏻‍💻
 🐈 Love cats more than people\
-📚 Study at Lomonosov Moscow State University at the Faculty of Mechanics and Mathematics\
-💻 Develop a backend for mobile applications on Go
+📚 Graduated from the Faculty of Mechanics and Mathematics of Lomonosov Moscow State University\
+💻 Developing the backend of a mobile application on Go
